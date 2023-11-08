@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component } from '@angular/core'
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angular-Shopping';
+  title = 'Angular-Shopping'
 }
+// Home Header Footer Register Login Add-Product Edit-Product Products-Listing Categories Banner
